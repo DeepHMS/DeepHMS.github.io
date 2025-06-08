@@ -39,7 +39,7 @@ a {
 }
 .profile img {
     max-width: 200px;
-    border-radius: 8px;
+    border-radius: 10px;
 }
 .summary {
     max-width: 700px;
